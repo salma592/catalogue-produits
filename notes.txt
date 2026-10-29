@@ -1,0 +1,3 @@
+Projet : Catalogue de produits
+Objectif : Organiser les produits
+Outil : Git
